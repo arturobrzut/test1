@@ -4,5 +4,5 @@ metadata:
   name: example-config
   namespace: default  # Adjust the namespace as needed
 data:
-  password: <path:ibmcloud/arbitrary/secrets/groups/61816a66-c953-2cfa-c91a-411a748c1b4f#test2>
+  #password: <path:ibmcloud/arbitrary/secrets/groups/61816a66-c953-2cfa-c91a-411a748c1b4f#test2>
   #c: {{ .Values.abc }}
